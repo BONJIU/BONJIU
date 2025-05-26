@@ -78,5 +78,5 @@
 
 <p><h4>Quer falar comigo? Pois não exite!</h4></p> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-bongiovani-614516171/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-santos-bongiovani-de-oliveira-614516171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox)
