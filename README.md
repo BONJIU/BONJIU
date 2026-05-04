@@ -1,6 +1,6 @@
 <h1 align="center">Bem-Vindo!</h1>
 
-<p align="left">Olá 👋, me chamo Julia, sou uma aspirante a dev apaixonada por tecnologia e inovação!</p>
+<p align="left">Olá 👋, me chamo Julia, sou desenvoldedora full-stack junior apaixonada por tecnologia e inovação!</p>
 
 <p align="left">- 🏛️ Atualmente estudo Desenvolvimento de Software Multiplataforma na Fatec Zona Leste em São Paulo, no Brasil</p>
 
@@ -21,7 +21,7 @@
 
 - 🎨 Amante nada secreta da arte contemporânea, procuro sempre dar um toque unico em meus projetos de front-end, stack da qual pretendo me especializar</p>
 
- -  💭 Atualmente tenho 20 anos e resido em Itaquera, Zona Leste de SP, minha sede de alcançar novos horizontes não é segredo para ninguém que me conhece, espero poder contar logo que consegui ganhar o mundo...</p>
+ -  💭 Atualmente tenho 21 anos e resido em Itaquera, Zona Leste de SP, minha sede de alcançar novos horizontes não é segredo para ninguém que me conhece, espero poder contar logo que consegui ganhar o mundo...</p>
 </detalhes>
 
 
